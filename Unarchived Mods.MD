@@ -29,7 +29,7 @@
   - []()
   - []()
   - []()
-  - [Disc 255 Fix](https://riwspy.github.io/lcc-docs/en/#m2002:~:text=Disc%20255%20Fix)
+  - [Disc 255 Fix](https://riwspy.github.io/lcc-docs/en/#m1599:~:text=Disc%20255%20Fix)
 - Quest
   - []()
   - []()
