@@ -49,7 +49,7 @@
 | -- | -- | -- |
 | Almateria's Quest 2 | [description](https://riwspy.github.io/lcc-docs/en/#m37:~:text=Almateria%27s%20Quest%202) | [download](https://github.com/11jo/Unarchived_Mods/raw/main/Unarchived_Mods/AlmaQuest2v3_WIN.zip) |
 | The Demon in Ust Natha | [description](https://riwspy.github.io/lcc-docs/en/#m1063:~:text=The%20Demon%20in%20Ust%20Natha) | [download](https://github.com/11jo/Unarchived_Mods/releases/tag/0.0.0) |
-| TS25 MiniMod | [description](https://riwspy.github.io/lcc-docs/en/#m1019:~:text=TS25%20MiniMod) | [download](https://github.com/11jo/Unarchived_Mods/raw/main/Unarchived_Mods/TS25_MiniMod_v2_s35_n86_QUEST.7z) |
+| TS25 MiniMod | [description](https://riwspy.github.io/lcc-docs/en/#m1019:~:text=TS25%20MiniMod) | [download](https://github.com/11jo/Unarchived_Mods/raw/main/Unarchived_Mods/TS25_MiniMod_v2_s35_n86.7z) |
 | Wedge's BGT Adventure Pack | [description](https://riwspy.github.io/lcc-docs/en/#m1208:~:text=Wedge%27s%20BGT%20Adventure%20Pack) | [download](https://github.com/11jo/Unarchived_Mods/raw/main/Unarchived_Mods/Wedge_bgt_adventures_pack-1.zip) |
 
 ## Script
